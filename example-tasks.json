@@ -1,0 +1,17 @@
+[
+  {
+    "name": "读书",
+    "minutes": 40,
+    "value": 7
+  },
+  {
+    "name": "散步",
+    "minutes": 30,
+    "value": 6
+  },
+  {
+    "name": "整理笔记",
+    "minutes": 20,
+    "value": 4
+  }
+]

@@ -1,0 +1,4 @@
+{
+  "before": "hello\nworld\n",
+  "after": "hello\nquiet lab\n"
+}
